@@ -19,3 +19,12 @@ Very similar to the first task i just found the sample 98th percential and the p
 
 ![image](https://github.com/SemirHot/5530HW3/assets/70181745/3b22868c-e3d3-4929-9719-768940db6c5f)
 
+<h1>Task 3</h1>
+As the assignment stated i set the bootstrap sample to 500 and took 150 observation of each.
+
+<img width="428" alt="Screen Shot 2023-11-27 at 3 54 23 PM" src="https://github.com/SemirHot/5530HW3/assets/70181745/6bedaa25-d67e-467c-b7f9-76180f5d1048">
+
+Once i did this, I initialized all the values that we were looking for, the average mean, SD, and the percential.  
+
+
+
