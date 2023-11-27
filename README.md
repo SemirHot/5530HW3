@@ -12,4 +12,4 @@ Once i did that i looked ahade in the assingment and saw i had to set a seed val
 <h1>Task 1</h1>
 I started out with the sample data, i got the mean of the glucose from the sample set and i set that to sample_mean_glucose and did the same thing with sample highest glucose, i used the max() methode to do this and i set it equal to sample_highest_glucose. I set them equal to these values to make it easy to recall later when i am doing the visualziation for it. Before that i did the exact same thing for the population data. Once i had all of the things i needed to make my visualization i went with a barchart for both task 1 and 2. If we take a look at the results we can see that the sample mean was higher by 0.745, a very small amount but when we take a look at the highest, we can see that the population had a much greater max value comapred to the sample. 
 
-<center>![image](https://github.com/SemirHot/5530HW3/assets/70181745/6880cf21-1207-472f-a092-71f43fdb6ba6)</center>
+![image](https://github.com/SemirHot/5530HW3/assets/70181745/6880cf21-1207-472f-a092-71f43fdb6ba6)
