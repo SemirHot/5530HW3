@@ -28,3 +28,7 @@ Once i did this, I initialized all the values that we were looking for, the aver
 
 
 
+
+
+
+Taking a look at the results that i came up with, i wanted to go for a line plot over a bar chart as i wanted to more show the differences between the values to the average. with this method of visualization we are able to see the spikes and all the values from all the fetures that we comparing. When we take a look at all the reults we can see that with the average line the values will bounce back and fourth between it with quite a fee values that are either way larger or way smaller then the true value of what it is. I could of gone with a bar chart here but I belive this is an easier way to see the true values and how spread the data is amongst the fetures i am cpmparing. 
