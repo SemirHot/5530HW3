@@ -28,7 +28,8 @@ Once i did this, I did all the code needed to run the bootstrap and then I initi
 
 Taking a look at the results that i came up with, i wanted to go for a line plot over a bar chart as i wanted to more show the differences between the values to the average. with this method of visualization we are able to see the spikes and all the values from all the fetures that we comparing. When we take a look at all the reults we can see that with the average line the values will bounce back and fourth between it with quite a few values that are either way larger or way smaller then the true value of what it is. I could of gone with a bar chart here but I belive this is an easier way to see the true values and how spread the data is amongst the fetures i am comparing. 
 
-![image](https://github.com/SemirHot/5530HW3/assets/70181745/a8006def-0402-4eeb-a998-65a4a71e5b00)
+![image](https://github.com/SemirHot/5530HW3/assets/70181745/e1e2f557-a6ec-472e-aaea-f2ed78aef836)
+
 
 
 
